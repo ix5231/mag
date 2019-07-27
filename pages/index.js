@@ -148,6 +148,7 @@ export default function index() {
                 <Block className="figure">
                     <Figure n={safeVertex}/>
                 </Block>
+                <a href="https://github.com/ix5231/mag">Source code</a>
             </main>
             <style jsx>{`
                 main {
